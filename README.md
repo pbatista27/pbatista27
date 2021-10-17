@@ -1,4 +1,3 @@
-### I speak to computers too 👋
 
 <!--
 **pbatista27/pbatista27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### I speak to computers too 👋
+
+```go
 package main
 
 import "fmt"
@@ -29,12 +31,14 @@ type I struct {
 
 func main() {
 	me := I{
-		am:       "Naren Yellavula",
-		love:     []string{"Software", "Books", "Travel"},
-		workWith: []string{"Python 3", "JavaScript ES6", "React", "Go", "AWS"},
+		am:       "Pedro Batista",
+		love:     []string{"Software", "Books", "Travel","Movie"},
+		workWith: []string{"Python 3", "JavaScript ES6", "Golang", "React", "Mongodb", "Mysql", "Psotgresql"},
 		aspire:   "To make this world a better and safe place with technology",
 	}
 	fmt.Println(me)
 }
+
+```
 
 
