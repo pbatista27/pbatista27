@@ -32,8 +32,8 @@ type I struct {
 func main() {
 	me := I{
 		am:       "Pedro Batista",
-		love:     []string{"Software", "Books", "Travel","Movie"},
-		workWith: []string{"Python 3", "JavaScript ES6", "Golang", "React", "Mongodb", "Mysql", "Psotgresql"},
+		love:     []string{"Softwares", "Books", "Travels","Movies"},
+		workWith: []string{"Python 3", "JavaScript ES6", "Golang", "React", "Mongodb", "Mysql", "Postgresql"},
 		aspire:   "To make this world a better and safe place with technology",
 	}
 	fmt.Println(me)
