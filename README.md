@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 
 ```go
 package main
-
 import "fmt"
-
 // I is about me
 type I struct {
 	am       string
@@ -28,7 +26,6 @@ type I struct {
 	workWith []string
 	aspire   string
 }
-
 func main() {
 	me := I{
 		am:       "Pedro Batista",
