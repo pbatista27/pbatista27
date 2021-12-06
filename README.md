@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I speak to computers too 👋
+### Yo también hablo con las computadoras 👋
 
 ```go
 package main
